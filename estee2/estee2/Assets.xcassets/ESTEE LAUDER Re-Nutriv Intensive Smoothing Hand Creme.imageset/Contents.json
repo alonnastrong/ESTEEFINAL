@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ESTEE LAUDER Re-Nutriv Intensive Smoothing Hand Creme.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
